@@ -3,10 +3,9 @@
 ## Installation
 This notebook should be ok to run with python 3 through Anocaonda.
 
-##Motivation
+## Motivation
 
-##Results
-Summaries are provided at the end of each session. And here is also a relative post.
+## Results
 
-##Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 
